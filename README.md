@@ -1,2 +1,2 @@
 # Travel_Website
-A travelling website design using HTML, CSS and Javascript
+A travelling website designed using HTML, CSS and Javascript
